@@ -11,7 +11,7 @@ import ru.fiarr4ikdev.oretech.proxy.CommonProxy;
 public class OreTech {
     public static final String MODID = "oretech";
     public static final String NAME = "OreTech";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.0.1";
 
     @SidedProxy(
             clientSide = "ru.fiarr4ikdev.oretech.proxy.ClientProxy",
